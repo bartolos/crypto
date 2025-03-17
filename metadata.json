@@ -1,7 +1,17 @@
-{
-  "name": "Cristiano Roonaldo 7",
+  {
+  "name": "Critiano Ronaldo",
   "symbol": "CR7",
-  "uri": "https://raw.githubusercontent.com/bartolos/crypto/refs/heads/main/logo.png",
-  "seller_fee_basis_points": 0,
-  "creators": null
+  "description": "Only Cristiano Ronaldo fans",
+  "image": "https://raw.githubusercontent.com/bartolos/crypto/refs/heads/main/logo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/bartolos/crypto/refs/heads/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
+
+
